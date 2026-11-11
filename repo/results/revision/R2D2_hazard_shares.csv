@@ -1,0 +1,25 @@
+hazard,cluster,group,new_km2,share_of_new_on_hazard_pct,share_of_buildable_land_hazard_pct
+"flooded June 2022 (Sentinel-1, observed)",All,near,5.85,0.2923076923076923,47.05545626014117
+"flooded June 2022 (Sentinel-1, observed)",All,elsewhere,7.8525,0.11461318051575932,49.80401822862131
+"flooded June 2022 (Sentinel-1, observed)",North,near,4.3767,0.39070532593049556,51.83860351981686
+"flooded June 2022 (Sentinel-1, observed)",North,elsewhere,4.518,0.1593625498007968,72.42150364454226
+"flooded June 2022 (Sentinel-1, observed)",South,near,1.4733,0.0,0.6021571784635066
+"flooded June 2022 (Sentinel-1, observed)",South,elsewhere,3.3345,0.05398110661268556,15.45685593127382
+HAND <= 2 m,All,near,5.85,42.43076923076923,67.17286736786617
+HAND <= 2 m,All,elsewhere,7.8525,42.96848137535817,69.9982950049204
+HAND <= 2 m,North,near,4.3767,44.211392144766606,70.01705628118563
+HAND <= 2 m,North,elsewhere,4.518,46.733067729083665,82.7216577864727
+HAND <= 2 m,South,near,1.4733,37.1411117898595,39.55047753490526
+HAND <= 2 m,South,elsewhere,3.3345,37.86774628879892,50.67645624213796
+HAND <= 5 m (old rule),All,near,5.85,81.26153846153846,86.74461127904391
+HAND <= 5 m (old rule),All,elsewhere,7.8525,80.19484240687679,85.37160553085577
+HAND <= 5 m (old rule),North,near,4.3767,82.91178285009254,88.59159631802356
+HAND <= 5 m (old rule),North,elsewhere,4.518,87.11155378486056,95.81342525499501
+HAND <= 5 m (old rule),South,near,1.4733,76.35919364691509,68.8069347332201
+HAND <= 5 m (old rule),South,elsewhere,3.3345,70.82321187584346,69.51454316740687
+landslide-prone (slope >= 15°),All,near,5.85,0.5538461538461539,2.824291044468788
+landslide-prone (slope >= 15°),All,elsewhere,7.8525,0.2636103151862464,2.4452779975944745
+landslide-prone (slope >= 15°),North,near,4.3767,0.7402837754472548,2.8536907203383093
+landslide-prone (slope >= 15°),North,elsewhere,4.518,0.23904382470119523,0.8825893385420909
+landslide-prone (slope >= 15°),South,near,1.4733,0.0,2.5387652469285573
+landslide-prone (slope >= 15°),South,elsewhere,3.3345,0.2968960863697706,4.818394195335638

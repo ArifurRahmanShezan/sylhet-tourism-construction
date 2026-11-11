@@ -1,0 +1,39 @@
+feature,mean_abs_shap,group,share_%,cluster
+population_log,2.1449835,general growth,29.459026,North
+elevation,1.4334662,general growth,19.687105,North
+water_occurrence,0.7359985,general growth,10.108143,North
+built_density_500m,0.568317,general growth,7.8052187,North
+dist_any_road,0.40276894,general growth,5.531595,North
+slope,0.31954673,general growth,4.3886285,North
+mndwi,0.27814603,general growth,3.8200345,North
+ndbi,0.18626022,general growth,2.5580826,North
+dist_protected,0.15555216,general growth,2.1363406,North
+dist_sylhet_city,0.15169334,general growth,2.0833437,North
+dist_river,0.14527221,general growth,1.9951565,North
+dist_tourism_route,0.14151247,tourism-specific,1.9435205,North
+ndvi,0.11220444,general growth,1.5410064,North
+dist_sreemangal,0.111613244,general growth,1.5328871,North
+dist_existing_built,0.10298902,general growth,1.4144427,North
+dist_attraction,0.09924079,tourism-specific,1.3629647,North
+dist_main_road,0.096204326,general growth,1.3212622,North
+treecover2000,0.057502434,general growth,0.78973365,North
+night_light,0.037972298,tourism-specific,0.5215084,North
+population_log,2.4430554,general growth,32.404785,South
+elevation,1.0208715,general growth,13.54088,South
+built_density_500m,0.806179,general growth,10.69319,South
+dist_sylhet_city,0.36868635,general growth,4.89027,South
+dist_any_road,0.36855665,general growth,4.88855,South
+slope,0.3628911,general growth,4.813402,South
+mndwi,0.3415494,general growth,4.5303245,South
+water_occurrence,0.26797876,general growth,3.554481,South
+treecover2000,0.22495161,general growth,2.983767,South
+ndvi,0.2118139,general growth,2.8095078,South
+dist_protected,0.18885867,general growth,2.505029,South
+ndbi,0.18543108,general growth,2.4595652,South
+dist_sreemangal,0.16628855,general growth,2.205658,South
+dist_main_road,0.15297079,general growth,2.0290108,South
+dist_river,0.11147291,general growth,1.4785812,South
+dist_existing_built,0.10673086,general growth,1.4156824,South
+dist_tourism_route,0.101848565,tourism-specific,1.3509234,South
+dist_attraction,0.060506217,tourism-specific,0.8025569,South
+night_light,0.04853985,tourism-specific,0.64383453,South

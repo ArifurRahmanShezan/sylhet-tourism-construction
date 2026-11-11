@@ -1,0 +1,5 @@
+stratum,n,share_real_new_building,ci_low,ci_high,meaning
+pos_stable,30,0.6333333333333333,0.45513246433604937,0.7812629779598231,precision
+pos_flicker,30,0.6,0.42320052498273836,0.7540960567391659,precision
+neg_near,25,0.12,0.04166741357068093,0.2995619218337349,omission (missed construction)
+neg_far,15,0.0,-1.3877787807814457e-17,0.20388926630434784,omission (missed construction)

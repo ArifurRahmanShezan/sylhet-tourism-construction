@@ -1,0 +1,20 @@
+feature,mean_abs_shap,group,share_%
+population_log,2.2351537,general growth,30.371937
+elevation,1.3086566,general growth,17.78242
+built_density_500m,0.6402704,general growth,8.700186
+water_occurrence,0.5944222,general growth,8.077188
+dist_any_road,0.39241964,general growth,5.3323154
+slope,0.33265832,general growth,4.520261
+mndwi,0.297325,general growth,4.040141
+dist_sylhet_city,0.21733344,general growth,2.9531918
+ndbi,0.18600915,general growth,2.5275483
+dist_protected,0.16562766,general growth,2.2505982
+ndvi,0.14233641,general growth,1.9341099
+dist_river,0.13504796,general growth,1.8350722
+dist_tourism_route,0.12951402,tourism-specific,1.7598754
+dist_sreemangal,0.12815242,general growth,1.7413734
+dist_main_road,0.113375984,general growth,1.540587
+treecover2000,0.108155936,general growth,1.4696553
+dist_existing_built,0.104121,general growth,1.4148273
+dist_attraction,0.087523445,tourism-specific,1.1892947
+night_light,0.04116896,tourism-specific,0.5594162

@@ -1,0 +1,19 @@
+hazard,cluster,group,new_km2,share_on_hazard_pct,hazard_share_of_eligible_land_pct
+flood-prone,All,near attractions/routes,5.85,81.27692307692308,86.95855400252036
+flood-prone,All,elsewhere,7.8525,80.21776504297995,85.549981374782
+flood-prone,North,near attractions/routes,4.3767,82.9323462882994,88.82620535217474
+flood-prone,North,elsewhere,4.518,87.13147410358566,96.10096219603841
+flood-prone,South,near attractions/routes,1.4733,76.35919364691509,68.8201689569226
+flood-prone,South,elsewhere,3.3345,70.8502024291498,69.5271457677434
+landslide-prone,All,near attractions/routes,5.85,0.5538461538461539,2.824291044468788
+landslide-prone,All,elsewhere,7.8525,0.2636103151862464,2.4452779975944745
+landslide-prone,North,near attractions/routes,4.3767,0.7402837754472548,2.8536907203383093
+landslide-prone,North,elsewhere,4.518,0.23904382470119523,0.8825893385420909
+landslide-prone,South,near attractions/routes,1.4733,0.0,2.5387652469285573
+landslide-prone,South,elsewhere,3.3345,0.2968960863697706,4.818394195335638
+any hazard,All,near attractions/routes,5.85,81.63076923076923,89.21967531772245
+any hazard,All,elsewhere,7.8525,80.42406876790831,87.50572192642205
+any hazard,North,near attractions/routes,4.3767,83.40530536705737,91.12641861246811
+any hazard,North,elsewhere,4.518,87.33067729083665,96.88473472373555
+any hazard,South,near attractions/routes,1.4733,76.35919364691509,70.70163442662725
+any hazard,South,elsewhere,3.3345,71.06612685560054,73.2626498600878
